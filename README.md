@@ -1,4 +1,4 @@
-# StockMarketAnalysis-
+# StockMarketAnalysisAndMachineLearningPrediction-
 Stock market analsis with python tools
 with pandas
 Numpy
